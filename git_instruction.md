@@ -26,4 +26,18 @@ Github allows to work with files/codes from the internet in combination with Git
 * **git pull** - uploads changes from existing external repository
 * **git push** - uploads changes to existing external repository
 
+### **Pull request**
 
+Often used by companies to manage work on projects
+
+* Cmd to advise main branch on possible changes
+* Request to add changes to repository
+
+### Follow certain steps to make such request:
+
+* Create FORK from existing repository
+* Create git clone repository from your FORk
+* Create new branch and make changes
+* Add commits
+* Send finalized version back to GitHub
+* Press "Pull request" button
