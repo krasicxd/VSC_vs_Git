@@ -81,6 +81,7 @@ Set the path to the image from folder:
 Github allows to work with files/codes from the internet in combination with Git
 
 ### Step-by-step guide:
+
 1. Greate GitHub account
 2. Create local repository
 3. Connect local repository with GitHub
