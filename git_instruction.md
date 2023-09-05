@@ -55,11 +55,11 @@ Merging will open up a window allowing to do followings:
 * Accept both changes
 * Compare files
 
-!pic
+![Conflict_example](conflict_content_pic.png)
 
 ### *Deleting a branch that isn't merged with the **master** branch will call up an error:*
 
-!pic
+![Delete_example](delete_error.png)
 
 ### *You'd have to merge branch to master or delete it without merging using " -D "*
 
@@ -74,7 +74,8 @@ Set the path to the image from folder:
 
  *text_no_spaces
 
- !pic
+ ![Pic_example](git_logo.jpeg)
+
 ## **Git vs Github**
 
 ### 
