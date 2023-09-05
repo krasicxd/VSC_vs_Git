@@ -10,3 +10,20 @@
 
 ## **Git vs Github**
 
+Github allows to work with files/codes from the internet in combination with Git
+
+### Step-by-step guide:
+1. Greate GitHub account
+2. Create local repository
+3. Connect local repository with GitHub
+4. Send (push) your local repository to GitHub and 
+5. Make changes from GitHub side
+6. Upload (pull) repository back to local folder
+
+### *Main cmd's*
+
+* **git clone external_repository** - copies existing external repository to local folder
+* **git pull** - uploads changes from existing external repository
+* **git push** - uploads changes to existing external repository
+
+
